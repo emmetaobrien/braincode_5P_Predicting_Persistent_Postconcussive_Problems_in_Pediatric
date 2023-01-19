@@ -1,0 +1,563 @@
+{
+  "title": "5P: Predicting Persistent Postconcussive Problems in Pediatrics",
+  "description": "The goal of the 5P study was to derive and validate easy to use prognosticators for clinicians to identify children and youth for risk of PPCS. A 12-point PPCS risk score was developed which includes nine diagnostic variables: sex, age, physician-diagnosed migraine history, prior concussion symptoms duration, headache, sensitivity to noise, fatigue, answering questions slowly, and errors on the Balance Error Scoring System tandem stance. Among children presenting to the emergency department with concussion and head injury within the previous 48 hours, the clinical risk score demonstrated modest ability to discriminate PPCS risk at 28 days.",
+  "dates": [
+    {
+      "date": "2013-08-01 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2015-06-30 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "1 Richmond Street West"
+      }
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Concussion"
+      }
+    },
+    {
+      "information": {
+        "value": "Clinical studies"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV"
+      ],
+      "size": 141,
+      "unit": {
+        "value": "MB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "public"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "identifier": {
+        "identifier": "10.1001/jama.2016.1203",
+        "identifierSource": "https://pubmed.ncbi.nlm.nih.gov/26954410/"
+      },
+      "title": "Clinical Risk Score for Persistent Postconcussion Symptoms Among Children With Acute Concussion in the ED",
+      "dates": [
+        {
+          "type": {
+            "value": "primary reference publication date"
+          },
+          "date": "2016-03-08 00:00:00"
+        }
+      ],
+      "publicationVenue": "JAMA",
+      "authors": [
+        {
+          "fullName": "Roger Zemek",
+          "firstName": "Roger",
+          "lastName": "Zemek",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Children's Hospital of Eastern Ontario, University of Ottawa, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Nick Barrowman",
+          "firstName": "Nick",
+          "lastName": "Barrowman",
+          "affiliations": [
+            {
+              "name": " Children's Hospital of Eastern Ontario Research Institute, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Stephen B Freedman",
+          "firstName": "Stephen B",
+          "lastName": "Freedman",
+          "affiliations": [
+            {
+              "name": " Department of Pediatrics, Alberta Children's Hospital, Alberta Children's Hospital  Research Institute, University of Calgary, Calgary, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Jocelyn Gravel",
+          "firstName": "Jocelyn",
+          "lastName": "Gravel",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Hospital Ste Justine, University of Montreal, Montreal,  Quebec, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Isabelle Gagnon",
+          "firstName": "Isabelle",
+          "lastName": "Gagnon",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Montreal Children's Hospital, McGill University Health  Center, Montreal, Quebec, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Candice McGahern",
+          "firstName": "Candice",
+          "lastName": "McGahern",
+          "affiliations": [
+            {
+              "name": "Children's Hospital of Eastern Ontario Research Institute, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Mary Aglipay",
+          "firstName": "Mary",
+          "lastName": "Aglipay",
+          "affiliations": [
+            {
+              "name": "Children's Hospital of Eastern Ontario Research Institute, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Gurinder Sangha",
+          "firstName": "Gurinder",
+          "lastName": "Sangha",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Children's Hospital of Western Ontario, Western  University, London, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Kathy Boutis",
+          "firstName": "Kathy",
+          "lastName": "Boutis",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Hospital for Sick Children, Toronto, Ontario, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Darcy Beer",
+          "firstName": "Darcy",
+          "lastName": "Beer",
+          "affiliations": [
+            {
+              "name": " Department of Pediatrics, Manitoba Children's Hospital, Winnipeg, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "William Craig",
+          "firstName": "William",
+          "lastName": "Craig",
+          "affiliations": [
+            {
+              "name": " Department of Pediatrics, Stollery Children's Hospital, Edmonton, Alberta, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Emma Burns",
+          "firstName": "Emma",
+          "lastName": "Burns",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, IWK Health Centre, Halifax, Nova Scotia, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Ken J Farion",
+          "firstName": "Ken J",
+          "lastName": "Farion",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Children's Hospital of Eastern Ontario, University of  Ottawa, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Angelo Mikrogianakis",
+          "firstName": "Angelo",
+          "lastName": "Mikrogianakis",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Alberta Children's Hospital, Calgary, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Karen Barlow",
+          "firstName": "Karen",
+          "lastName": "Barlow",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics and Clinical Neurosciences, Alberta's Children's Hospital,  University of Calgary, Calgary, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Alexander S Dubrovsky",
+          "firstName": "Alexander S",
+          "lastName": "Dubrovsky",
+          "affiliations": [
+            {
+              "name": " Department of Pediatrics, Montreal Children's Hospital, McGill University Health  Center, Montreal, Quebec, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Willem Meeuwisse",
+          "firstName": "Willem",
+          "lastName": "Meeuwisse",
+          "affiliations": [
+            {
+              "name": " Sport Injury Prevention Research Centre, Faculty of Kinesiology, University of  Calgary, Calgary, Alberta, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Gerard Gioia",
+          "firstName": "Gerard",
+          "lastName": "Gioia",
+          "affiliations": [
+            {
+              "name": " Department of Neuropsychology, Children's National Health System, George Washington  University School of Medicine, Rockville, Maryland."
+            }
+          ]
+        },
+        {
+          "fullName": "William P Meehan 3rd",
+          "firstName": "William P",
+          "lastName": "Meehan 3rd",
+          "affiliations": [
+            {
+              "name": " Sports Concussion Clinic, Boston Children's Hospital, Boston, Massachusetts."
+            }
+          ]
+        },
+        {
+          "fullName": "Miriam H Beauchamp",
+          "firstName": "Miriam H",
+          "lastName": "Beauchamp",
+          "affiliations": [
+            {
+              "name": "Ste Justine Research Center, University of Montreal, Montreal, Quebec, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Yael Kamil",
+          "firstName": "Yael",
+          "lastName": "Kamil",
+          "affiliations": [
+            {
+              "name": "Children's Hospital of Eastern Ontario Research Institute, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Anne M Grool",
+          "firstName": "Anne M",
+          "lastName": "Grool",
+          "affiliations": [
+            {
+              "name": "Children's Hospital of Eastern Ontario Research Institute, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Blaine Hoshizaki",
+          "firstName": "Blaine",
+          "lastName": "Hoshizaki",
+          "affiliations": [
+            {
+              "name": "Department of Kinesiology, University of Ottawa, Ottawa, Ontario, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Peter Anderson",
+          "firstName": "Peter",
+          "lastName": "Anderson",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, Children's Hospital of Eastern Ontario, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Brian L Brooks",
+          "firstName": "Brian L",
+          "lastName": "Brooks",
+          "affiliations": [
+            {
+              "name": "Alberta Children's Hospital Research Institute, University of Calgary, Calgary,  Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Keith Owen Yeates",
+          "firstName": "Keith Owen",
+          "lastName": "Yeates",
+          "affiliations": [
+            {
+              "name": "Department of Psychology, Alberta Children's Hospital Research Institute, University  of Calgary, Calgary, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Michael Vassilyadi",
+          "firstName": "Michael",
+          "lastName": "Vassilyadi",
+          "affiliations": [
+            {
+              "name": "Department of Neurosurgery, Children's Hospital of Eastern Ontario, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Terry Klassen",
+          "firstName": "Terry",
+          "lastName": "Klassen",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Manitoba Children's Hospital, Winnipeg, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Michelle Keightley",
+          "firstName": "Michelle",
+          "lastName": "Keightley",
+          "affiliations": [
+            {
+              "name": "Bloorview Research Institute, Holland Bloorview Kids Rehabilitation Hospital,  Toronto, Ontario, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Lawrence Richer",
+          "firstName": "Lawrence",
+          "lastName": "Richer",
+          "affiliations": [
+            {
+              "name": "Department of Neurology, Stollery Children's Hospital, Edmonton, Alberta, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Carol DeMatteo",
+          "firstName": "Carol",
+          "lastName": "DeMatteo",
+          "affiliations": [
+            {
+              "name": "School of Rehabilitation Science, McMaster University, Hamilton, Ontario, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Martin H Osmond",
+          "firstName": "Martin H",
+          "lastName": "Osmond",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Children's Hospital of Eastern Ontario, University of  Ottawa, Ottawa, Canada."
+            }
+          ]
+        },
+        {
+          "fullName": "Pediatric Emergency Research Canada (PERC) Concussion Team",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Children's Hospital of Eastern Ontario, University of Ottawa, Ottawa, Canada"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Canada"
+    }
+  ],
+  "aggregation": "instance of dataset",
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Pediatric Emergency Research Canada Concussion Team",
+          "abbreviation": "PERC"
+        },
+        {
+          "name": "Government of Ontario"
+        },
+        {
+          "name": "Canadian Institutes of Health Research",
+          "abbreviation": "CIHR"
+        },
+        {
+          "name": "Ontario Neurotrauma Foundation"
+        },
+        {
+          "name": "CHEO Foundation"
+        },
+        {
+          "name": "CHEO Research Institute"
+        },
+        {
+          "name": "University of Ottawa Brain and Mind Research Institute"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "concussion"
+    },
+    {
+      "value": "pediatric"
+    },
+    {
+      "value": "prognosticators"
+    },
+    {
+      "value": "Balance Error Scoring System"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": 3063
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": 2
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "5P-logo.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
